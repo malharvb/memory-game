@@ -1,0 +1,8 @@
+.card-grid
+{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    justify-items: center;
+    align-items: center;
+    gap: 5vh 0;
+}
