@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.34a1d870.css",
+    "main.js": "/memory-game/static/js/main.8d4948f3.js",
+    "index.html": "/memory-game/index.html",
+    "static/media/coffee.svg": "/memory-game/static/media/coffee.2e8f9ccd2822241aa9c9312940a0a7bc.svg",
+    "static/media/truck.svg": "/memory-game/static/media/truck.c390f2f44f003cacea84a7ade5408e3a.svg",
+    "static/media/frown.svg": "/memory-game/static/media/frown.617f74e8fa66271c84c0b3c344d77424.svg",
+    "static/media/smile.svg": "/memory-game/static/media/smile.6e616c984e99ca6d9fdb36c17893e178.svg",
+    "static/media/feather.svg": "/memory-game/static/media/feather.c0e4588d7dc135e8daaf733795000127.svg",
+    "static/media/heart.svg": "/memory-game/static/media/heart.1e5344e34d7fb9906e8051258e2f7e2b.svg",
+    "static/media/hexagon.svg": "/memory-game/static/media/hexagon.ac0ddec48792408e489bc914361ba534.svg",
+    "static/media/anchor.svg": "/memory-game/static/media/anchor.90a478af6c3262fb20814c273630802a.svg",
+    "static/media/star.svg": "/memory-game/static/media/star.7d454646aac63026c1717069988ace52.svg",
+    "static/media/umbrella.svg": "/memory-game/static/media/umbrella.4835597b7546bf5a962e886c8799cebe.svg",
+    "static/media/moon.svg": "/memory-game/static/media/moon.98427afd23deb804640ce7291f98d599.svg",
+    "static/media/square.svg": "/memory-game/static/media/square.c063c93affb0501fb79b16e053f9dd82.svg",
+    "main.34a1d870.css.map": "/memory-game/static/css/main.34a1d870.css.map",
+    "main.8d4948f3.js.map": "/memory-game/static/js/main.8d4948f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34a1d870.css",
+    "static/js/main.8d4948f3.js"
+  ]
+}
