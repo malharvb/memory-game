@@ -3,7 +3,6 @@ import Card from './Card';
 import '../styles/cardGrid.css';
 
 function CardGrid({ handleClick, cardSeq }) {
-  console.log(cardSeq);
   return (
     <div className="card-grid">
       <Card type={cardSeq[0]} handleClick={handleClick} />
@@ -14,6 +13,10 @@ function CardGrid({ handleClick, cardSeq }) {
       <Card type={cardSeq[5]} handleClick={handleClick} />
       <Card type={cardSeq[6]} handleClick={handleClick} />
       <Card type={cardSeq[7]} handleClick={handleClick} />
+      <Card type={cardSeq[8]} handleClick={handleClick} />
+      <Card type={cardSeq[9]} handleClick={handleClick} />
+      <Card type={cardSeq[10]} handleClick={handleClick} />
+      <Card type={cardSeq[11]} handleClick={handleClick} />
     </div>
   );
 }

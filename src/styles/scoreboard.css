@@ -1,0 +1,16 @@
+.current-score , .high-score
+{
+    text-align: center;
+    color: #212529;
+}
+
+.score-board-container
+{
+    margin-bottom: 2em;
+}
+
+.current-score
+{
+    font-size: 1.5rem;
+    margin-bottom: .25em;
+}
